@@ -9,3 +9,5 @@ git remote = establishes remote connection w github
 git push = adds local repo to GitHub
 
 git pull = pulls a repo to git
+
+This is a change i am making.
